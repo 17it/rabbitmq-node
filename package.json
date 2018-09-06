@@ -1,0 +1,22 @@
+{
+  "name": "rabbitmq-node",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies": {
+    "amqplib": "^0.5.2"
+  },
+  "description": "'rabbitmq with nodejs'",
+  "devDependencies": {},
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:17it/rabbitmq-node.git"
+  },
+  "keywords": [
+    "rabbitmq",
+    "nodejs"
+  ],
+  "author": "17it",
+  "license": "ISC"
+}
